@@ -1,4 +1,4 @@
-me := "Geospark-local"
+name := "Geospark-local"
 
 version := "1.0"
 
